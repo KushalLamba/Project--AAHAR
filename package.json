@@ -12,7 +12,7 @@
     "Donation",
     "management"
   ],
-  "author": "Pradyumn",
+  "author": "Kushal_Yadav",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
